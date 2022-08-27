@@ -11,7 +11,7 @@ I am a Ph.D. student at the University of Illinois Urbana Champagne. I am advise
 
 ## Research
 
- I develop privacy-preserving storage protocols that use cryptography to protect user privacy. I am particularly interested in designing systems that guarantee provable privacy and security without any leakage, are concretely efficient and easy to deploy, and have realistic real-world assumptions. 
+ I develop privacy-preserving storage protocols that use cryptography to protect user privacy. I am particularly interested in designing systems that guarantee provable privacy and security without any leakage, are concretely efficient and easy to deploy, and have realistic real-world assumptions. Most of my recent work is based on lattice based homomorphic encryption.
 
 ## Publications
 
