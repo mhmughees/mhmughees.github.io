@@ -3,8 +3,8 @@
 title: Haris Mughees
 description: PhD student at University of Illinois Urbana Champaign
 
-baseurl: https://github.com/mhmughees/harismughees2
-url: "" #custom url to be used instead of GitHub repository
+baseurl: 
+url: https://github.com/mhmughees/harismughees2 
 email: mughees2@illinois.edu
 
 
