@@ -20,7 +20,7 @@ I am a Ph.D. student at the University of Illinois Urbana Champagne. I am advise
 *Computer and Communications Security (CCS) 2021*,  
 Code: https://github.com/mhmughees/Onion-PIR
 
-- [PrivateFetch: Scalable Catalog Delivery in Privacy-Preserving Advertising](https://arxiv.org/abs/2109.08189)
+- [PrivateFetch: Scalable Catalog Delivery in Privacy-Preserving Advertising](https://arxiv.org/abs/2109.08189)  
 **Muhammad Haris Mughees**, Gonçalo Pestana, Alex Davidson, Benjamin Livshits
 
 - [On Statistical Security in Two-Party Computation](https://eprint.iacr.org/2020/1428)  
