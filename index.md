@@ -26,6 +26,7 @@ Code: https://github.com/mhmughees/Onion-PIR
 - [On Statistical Security in Two-Party Computation](https://eprint.iacr.org/2020/1428)
 Dakshita Khurana, **Muhammad Haris Mughees**
 Theory of Cryptography Conference (TCC) 2020
+
 - [Burnbox: Self-Revocable Encryption in a World of Compelled Access](https://www.usenix.org/conference/usenixsecurity18/presentation/tyagi)
 Nirvan Tyagi,  **Muhammad Haris Mughees**, Thomas Ristenpart, Ian Miers  
 USENIX Security 2018
