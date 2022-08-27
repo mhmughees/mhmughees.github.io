@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Haris Mughees
+description: PhD student at University of Illinois Urbana Champaign
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: https://github.com/mhmughees/harismughees2
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: mughees2@illinois.edu
 
 
 highlighter: rouge
