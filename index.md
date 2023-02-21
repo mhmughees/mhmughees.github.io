@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-I am a Ph.D. student at the University of Illinois Urbana-Champaign. I am advised by [Ling Ren](https://sites.google.com/view/renling). My research focuses on cryptography, security, and user privacy. During my internships, I have worked with amazing cryptography teams at [Apple](https://www.apple.com), [Intel](https://www.intel.com/content/www/us/en/developer/articles/technical/introducing-intel-hexl.html), and [Brave Research](https://brave.com/research/), where I designed and implemented various provably secure protocols.
+I am a Ph.D. student at the University of Illinois Urbana-Champaign. I am advised by [Ling Ren](https://sites.google.com/view/renling). My research focuses on cryptography, security, and user privacy. During my internships, I have worked with amazing cryptography teams at [Apple](https://www.apple.com), [Intel](https://www.intel.com/content/www/us/en/developer/articles/technical/introducing-intel-hexl.html), and [Brave Research](https://brave.com/research/), where I designed and implemented various provably secure protocols for secure data compare and access.
 
 ## Research
 
@@ -35,3 +35,7 @@ Dakshita Khurana, **Muhammad Haris Mughees**
 Nirvan Tyagi,  **Muhammad Haris Mughees**, Thomas Ristenpart, Ian Miers  
 *USENIX Security 2018,*  
 Code: https://github.com/mhmughees/burnbox
+
+## Talks
+- [Private Information Retrieval + FHE talk at FHE.org](https://youtu.be/pRkSYjOuhdk)
+- [Statistical Two-Party computation talk at TCC](https://youtu.be/s4JVSn7DryU)        
