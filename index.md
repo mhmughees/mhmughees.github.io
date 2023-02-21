@@ -37,5 +37,5 @@ Nirvan Tyagi,  **Muhammad Haris Mughees**, Thomas Ristenpart, Ian Miers
 Code: https://github.com/mhmughees/burnbox
 
 ## Talks
-- [Private Information Retrieval + FHE talk at FHE.org](https://youtu.be/pRkSYjOuhdk)
-- [Statistical Two-Party computation talk at TCC](https://youtu.be/s4JVSn7DryU)        
+- [Private Information Retrieval using FHE at FHE.org](https://youtu.be/pRkSYjOuhdk)
+- [Statistical Two-Party computation at TCC](https://youtu.be/s4JVSn7DryU)        
