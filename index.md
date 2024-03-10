@@ -14,6 +14,8 @@ I am a Ph.D. student at the University of Illinois Urbana-Champaign. I am advise
  I develop privacy-preserving storage protocols that use cryptography to protect user privacy. I am particularly interested in designing systems that guarantee provable privacy and security without any leakage, are concretely efficient and easy to deploy, and have realistic assumptions. Most of my recent work is based on lattice-based homomorphic encryption.
 
 ## Publications
+- [Simple and practical amortized sublinear private information retrieval](https://eprint.iacr.org/2023/1072.pdf)    
+**Muhammad Haris Mughees**, I Sun, Ling Ren   
 
 - [Vectorized Batch Private Information Retrieval](https://eprint.iacr.org/2022/1262)    
 **Muhammad Haris Mughees**, Ling Ren   
@@ -33,9 +35,13 @@ Dakshita Khurana, **Muhammad Haris Mughees**
 *Theory of Cryptography Conference (TCC) 2020*
 
 - [Burnbox: Self-Revocable Encryption in a World of Compelled Access](https://www.usenix.org/conference/usenixsecurity18/presentation/tyagi)  
-Nirvan Tyagi,  **Muhammad Haris Mughees**, Thomas Ristenpart, Ian Miers  
+Nirvan Tyagi, **Muhammad Haris Mughees**, Thomas Ristenpart, Ian Miers  
 *USENIX Security 2018,*  
 Code: [https://github.com/mhmughees/burnbox]
+
+- [Detecting Anti Ad-blockers in the Wild](https://par.nsf.gov/servlets/purl/10073747)
+**Muhammad Haris Mughees**, Zhiyun Qian, and Zubair Shafiq
+*Proceedings on Privacy Enhancing Technologies (PETS) 2017*  
 
 ## Talks
 - [Private Information Retrieval using FHE at FHE.org](https://youtu.be/pRkSYjOuhdk)
